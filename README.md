@@ -1,1 +1,1 @@
-# Open Bootcamp Fundamentaos de la Programación Ejercicio Tema 3
+# Open Bootcamp Fundamentos de la Programación Ejercicio Tema 3
